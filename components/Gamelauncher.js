@@ -84,7 +84,7 @@ function Gamelauncher() {
         return (
             <div key={ii}>
                 {/* {couple.username + ' is ' + couple.heroe} */}
-                {couple.username + ' has join the game'}
+                {couple.username + ' a rejoint la partie'}
             </div>
         )
     })
